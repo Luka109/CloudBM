@@ -1,5 +1,5 @@
-numero = int(input("Digite um numero: "))
-numero= int(input("Digite outro numeo:"))
+numero1 = int(input("Digite um numero: "))
+numero2 = int(input("Digite outro numero:"))
 
 soma= numero1+ numero2
 print(soma)
